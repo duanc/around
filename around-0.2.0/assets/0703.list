@@ -1,0 +1,9 @@
+﻿{[
+{"name":"售票处","code":"05","ischildren":"false"},
+{"name":"飞机票代售点","code":"06","ischildren":"false"},
+{"name":"火车票代售点","code":"07","ischildren":"false"},
+{"name":"长途汽车代售点","code":"08","ischildren":"false"},
+{"name":"船票代售点","code":"09","ischildren":"false"},
+{"name":"公交卡/月卡代售点","code":"10","ischildren":"false"},
+{"name":"公园景点售票处","code":"15","ischildren":"false"}
+]}

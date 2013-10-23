@@ -1,0 +1,7 @@
+﻿{[
+{"name":"交通车辆管理相关","code":"00","ischildren":"false"},
+{"name":"交通管理机构","code":"00","ischildren":"false"},
+{"name":"车辆管理机构","code":"00","ischildren":"false"},
+{"name":"验车厂","code":"00","ischildren":"false"},
+{"name":"交通执法站","code":"00","ischildren":"false"}
+]}

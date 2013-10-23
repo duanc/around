@@ -1,0 +1,9 @@
+﻿{[
+{"name":"综合市场","code":"00","ischildren":"false"},
+{"name":"小商品市场","code":"00","ischildren":"false"},
+{"name":"旧货市场","code":"00","ischildren":"false"},
+{"name":"农副产品市场","code":"00","ischildren":"false"},
+{"name":"果品市场","code":"00","ischildren":"false"},
+{"name":"蔬菜市场","code":"00","ischildren":"false"},
+{"name":"水产海鲜市场","code":"00","ischildren":"false"}
+]}

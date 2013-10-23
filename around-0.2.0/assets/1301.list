@@ -1,0 +1,10 @@
+﻿{[
+{"name":"政府机关相关","code":"00","ischildren":"false"},
+{"name":"国家级机关及事业单位","code":"00","ischildren":"false"},
+{"name":"省直辖市级政府及事业单位","code":"00","ischildren":"false"},
+{"name":"地市级政府及事业单位","code":"00","ischildren":"false"},
+{"name":"区县级政府及事业单位","code":"00","ischildren":"false"},
+{"name":"乡镇级政府及事业单位","code":"00","ischildren":"false"},
+{"name":"乡镇以下级政府及事业单位","code":"00","ischildren":"false"},
+{"name":"外地政府办","code":"00","ischildren":"false"}
+]}

@@ -1,0 +1,9 @@
+﻿{[
+{"name":"公检法机关","code":"00","ischildren":"false"},
+{"name":"公安警察","code":"00","ischildren":"false"},
+{"name":"检察院","code":"00","ischildren":"false"},
+{"name":"法院","code":"00","ischildren":"false"},
+{"name":"消防机关","code":"00","ischildren":"false"},
+{"name":"公正鉴定机构","code":"00","ischildren":"false"},
+{"name":"社会治安机构","code":"00","ischildren":"false"}
+]}

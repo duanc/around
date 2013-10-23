@@ -1,0 +1,11 @@
+﻿{[
+{"name":"风景名胜","code":"00","ischildren":"false"},
+{"name":"世界遗产","code":"00","ischildren":"false"},
+{"name":"国家级景点","code":"00","ischildren":"false"},
+{"name":"省级景点","code":"00","ischildren":"false"},
+{"name":"纪念馆","code":"00","ischildren":"false"},
+{"name":"寺庙道观","code":"00","ischildren":"false"}
+{"name":"教堂","code":"00","ischildren":"false"},
+{"name":"回教寺","code":"00","ischildren":"false"},
+{"name":"海滩","code":"00","ischildren":"false"}
+]}

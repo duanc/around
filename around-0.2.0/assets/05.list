@@ -1,0 +1,11 @@
+﻿{[
+{"name":"中餐厅","code":"0501","ischildren":"true"},
+{"name":"外国餐厅","code":"0502","ischildren":"true"},
+{"name":"快餐厅","code":"0503","ischildren":"true"},
+{"name":"休闲餐饮场所","code":"0504","ischildren":"true"},
+{"name":"咖啡厅","code":"0505","ischildren":"true"},
+{"name":"茶艺馆","code":"0506","ischildren":"true"},
+{"name":"冷饮店","code":"0507","ischildren":"true"},
+{"name":"糕饼店","code":"0508","ischildren":"true"},
+{"name":"甜品店","code":"0509","ischildren":"true"}
+]}

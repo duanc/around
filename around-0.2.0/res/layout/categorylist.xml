@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="horizontal"
+              android:layout_width="fill_parent"
+              android:layout_height="46dp"
+              android:background="#efefef"
+              android:gravity="center_vertical"
+
+        >
+    <TextView
+            android:id="@+id/textlist"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Hello World, MyActivity"
+            android:layout_margin="6dp"
+            android:layout_weight="1"
+            android:textSize="16dp"
+            android:textColor="#222222"
+            />
+    <Button
+            android:id="@+id/btnlist"
+            android:layout_margin="6dp"
+            android:layout_width="46dp"
+            android:layout_height="34dp"
+            android:background="@drawable/nextbtn"
+
+            >
+
+    </Button>
+
+</LinearLayout>
+

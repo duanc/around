@@ -1,0 +1,16 @@
+﻿{[
+{"name":"商场","code":"0601","ischildren":"true"},
+{"name":"便民商店/便利店","code":"0602","ischildren":"true"},
+{"name":"家电电子卖场","code":"0603","ischildren":"true"},
+{"name":"超级市场","code":"0604","ischildren":"true"},
+{"name":"花鸟鱼虫市场","code":"0605","ischildren":"true"},
+{"name":"家居建材市场","code":"0607","ischildren":"true"},
+{"name":"综合市场","code":"0606","ischildren":"true"},
+{"name":"文化用品店","code":"0608","ischildren":"true"},
+{"name":"体育用品店","code":"0609","ischildren":"true"},
+{"name":"特色商业街","code":"0610","ischildren":"true"},
+{"name":"服装鞋帽皮具店","code":"0611","ischildren":"true"},
+{"name":"专卖店","code":"0612","ischildren":"true"},
+{"name":"特殊买卖场所","code":"0613","ischildren":"true"},
+{"name":"个人用品/化妆品店","code":"0614","ischildren":"true"}
+]}

@@ -1,0 +1,14 @@
+﻿{[
+{"name":"专科医院","code":"00","ischildren":"false"},
+{"name":"整形医院","code":"00","ischildren":"false"},
+{"name":"口腔医院","code":"00","ischildren":"false"},
+{"name":"眼科医院","code":"00","ischildren":"false"},
+{"name":"耳鼻喉医院","code":"00","ischildren":"false"},
+{"name":"胸科医院","code":"00","ischildren":"false"},
+{"name":"骨科医院","code":"00","ischildren":"false"},
+{"name":"肿瘤医院","code":"00","ischildren":"false"},
+{"name":"脑科医院","code":"00","ischildren":"false"},
+{"name":"妇科医院","code":"00","ischildren":"false"},
+{"name":"精神病医院","code":"00","ischildren":"false"},
+{"name":"传染病医院","code":"00","ischildren":"false"},
+]}

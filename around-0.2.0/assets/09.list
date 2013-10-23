@@ -1,0 +1,9 @@
+﻿{[
+{"name":"综合医院","code":"0901","ischildren":"true"},
+{"name":"专科医院","code":"0902","ischildren":"true"},
+{"name":"诊所","code":"0903","ischildren":"true"},
+{"name":"急救中心","code":"0904","ischildren":"true"},
+{"name":"疾病预防机构","code":"0905","ischildren":"true"},
+{"name":"医药保健相关","code":"0906","ischildren":"true"},
+{"name":"动物医疗场所","code":"0907","ischildren":"true"}
+]}

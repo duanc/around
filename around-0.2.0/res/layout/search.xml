@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="#efefef">
+    <LinearLayout android:layout_width="match_parent"
+                  android:layout_height="44dp"
+                  android:orientation="horizontal"
+                  android:background="@drawable/bg_title_bar"
+                  android:gravity="center_vertical" >
+        <ImageButton android:id="@+id/searchback"
+                     android:layout_width="40dp"
+                     android:layout_height="wrap_content"
+                     android:background="@drawable/bakbtn"
+                     android:layout_marginLeft="5dp"
+                     android:src="@drawable/ic_nav_back"
+                ></ImageButton>
+        <EditText android:id="@+id/searchedittext"
+                  android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                        android:hint="请输入要搜索的内容"
+                  android:textColor="#222222"
+                  android:layout_weight="1"
+
+                ></EditText>
+        <ImageButton android:id="@+id/searchid"
+                     android:layout_width="40dp"
+                     android:layout_height="wrap_content"
+                     android:background="@drawable/bakbtn"
+                     android:layout_marginRight="5dp"
+                     android:src="@drawable/abs__ic_search"
+                ></ImageButton>
+    </LinearLayout>
+    <ListView
+            android:id="@+id/serchListView"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:cacheColorHint="#00000000"
+            >
+    </ListView>
+</LinearLayout>

@@ -1,0 +1,13 @@
+﻿{[
+{"name":"电讯营业厅","code":"05","ischildren":"false"},
+{"name":"中国电信营业厅","code":"06","ischildren":"false"},
+{"name":"中国网通营业厅","code":"07","ischildren":"false"},
+{"name":"中国移动营业厅","code":"08","ischildren":"false"},
+{"name":"中国联通营业厅","code":"09","ischildren":"false"},
+{"name":"中国铁通营业厅","code":"10","ischildren":"false"},
+{"name":"中国卫通营业厅","code":"15","ischildren":"false"},
+{"name":"和记电讯","code":"08","ischildren":"false"},
+{"name":"数码通电讯","code":"09","ischildren":"false"},
+{"name":"电讯盈科","code":"10","ischildren":"false"},
+{"name":"中国移动万众/Peoples","code":"15","ischildren":"false"}
+]}

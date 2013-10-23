@@ -1,0 +1,11 @@
+﻿{[
+{"name":"娱乐场所","code":"00","ischildren":"false"},
+{"name":"夜总会","code":"00","ischildren":"false"},
+{"name":"KTV","code":"00","ischildren":"false"},
+{"name":"迪厅","code":"00","ischildren":"false"}
+{"name":"酒吧","code":"00","ischildren":"false"},
+{"name":"游戏厅","code":"00","ischildren":"false"},
+{"name":"棋牌室","code":"00","ischildren":"false"},
+{"name":"博彩中心","code":"00","ischildren":"false"},
+{"name":"网吧","code":"00","ischildren":"false"}
+]}

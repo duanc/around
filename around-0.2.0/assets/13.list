@@ -1,0 +1,9 @@
+﻿{[
+{"name":"政府机关","code":"1301","ischildren":"true"},
+{"name":"外国机构","code":"1302","ischildren":"true"},
+{"name":"民主党派","code":"1303","ischildren":"true"},
+{"name":"社会团体","code":"1304","ischildren":"true"},
+{"name":"公检法机构","code":"1305","ischildren":"true"},
+{"name":"交通车辆管理","code":"1306","ischildren":"true"},
+{"name":"工商税务机构","code":"1307","ischildren":"true"}
+]}
